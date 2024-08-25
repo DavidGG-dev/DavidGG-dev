@@ -1,32 +1,29 @@
+![alt text](banner.jpg)
 
+# <center><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5OTJtcHRmM2owcjlxajA1MWdzYmM1YnFqeTc4emI2Y20xemdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.webp" width="75">Nice to see you</center>
 
-![alt text](desktop.jpg)
+<h3>
+I'm David from Spain. After more than 5 years of experience as an IT technician, I decided to pursue my true passion, software development. I have delved into backend development with Java and Spring.
+</h3>
+<br>
+<div align="center">
+<a href="https://www.linkedin.com/in/davidgg-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.davidgg.dev">
+  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+</a>
+</div>
 
-
-
-
-# <center>  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw5OTJtcHRmM2owcjlxajA1MWdzYmM1YnFqeTc4emI2Y20xemdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ymwg2hvAKuuuiDN1x3/giphy.webp" width="75"> Nice to see you </center>
-
-I,m David from Spain. After more than 5 years of experience as an IT technician, I decided to pursue my true passion, software development. I have delved into backend development with Java and Spring.
-
-<!-- --- -->
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidgg-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.davidgg.dev)
-[![Email](https://img.shields.io/badge/contact@davidgg.dev-8A2BE2?style=for-the-badge&logoColor=white)](mailto:contact@davidgg.dev)
-
-
-## About me
-
-<!-- * 💻 Interested Backend developer. Recent focus Java and Spring.
-* 🏢 Over 5 years of experience as an IT technician. -->
-* 🚀 Currently learning Spring framework, TypeScript, Angular, and English.
-* 📖 Currently reading "Clean Code".
-* 🤝 Open to collaborating on interesting projects.
-* 💬 Let's connect and talk about software development .
+## <center>About me</center>
+* 🚀 Currently learning Spring framework, TypeScript, Angular, and English
+* 📖 Currently reading "Clean Code"
+* 🤝 Open to collaborating on interesting projects
+* 💬 Let's connect and talk about software development
 * 🌐 See my portfolio at [DavidGG.dev](http://www.davidgg.dev)
-* 📧  You can contact me at [contact@davidgg.dev](mailto:contact@davidgg.dev)
+* 📧 You can contact me at [contact@davidgg.dev](mailto:contact@davidgg.dev)
 
-## Main stack
+## <center>Main stack</center>
 
 ### Frontend
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
